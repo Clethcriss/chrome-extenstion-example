@@ -1,0 +1,10 @@
+{
+  "name": "Developer Communication Helper",
+  "description": "Translates commonly used symbols in programming",
+  "version": "1.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "popup": "popup.html",
+    "default_popup": "popup.html"
+  }
+}
